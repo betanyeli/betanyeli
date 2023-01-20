@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/betanyeli-bravo/](https://www.linkedin.com/in/betanyeli-bravo/)
 
-- ⚡ Fun fact **I like Mcflurry 🍦 with 🍟**
+- ⚡ Fun fact **Programmer👩🏻‍💻 by day and pole dancer by night✨🧚‍♀️*
 
 - 😄 Pronouns: She/Her ...
 
