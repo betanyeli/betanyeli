@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Swift & SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/betanyeli](https://github.com/betanyeli)
+- 👩🏻‍💻 All of my projects are available at [https://github.com/betanyeli](https://github.com/betanyeli)
 
 - 📝 Sometimes 😳 I write articles on [https://www.linkedin.com/in/betanyeli-bravo/recent-activity/posts/](https://www.linkedin.com/in/betanyeli-bravo/recent-activity/posts/)
 
