@@ -25,7 +25,6 @@
 
 - 💬 Ask me about **React Native**
 
-- 📫 How to reach me **betangelii@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/betanyeli-bravo/](https://www.linkedin.com/in/betanyeli-bravo/)
 
