@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/betanyeli-bravo/](https://www.linkedin.com/in/betanyeli-bravo/)
 
-- ⚡ Fun fact *Programmer👩🏻‍💻 by day and pole dancer by night✨🧚‍♀️*
+- ⚡ Fun fact *Programmer👩🏻‍💻 by day and Dog Owner by da6 & night✨🧚‍♀️*
 
 - 😄 Pronouns: She/Her ...
 
