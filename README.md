@@ -11,9 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betanyeli&label=Profile%20views&color=0e75b6&style=flat" alt="betanyeli" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/southsidesnook" target="blank"><img src="https://img.shields.io/twitter/follow/southsidesnook?logo=twitter&style=for-the-badge" alt="southsidesnook" /></a> </p>
-
-- 🔭 I am a curious and self-motivated **React Native Developer** 📱 with over 3 years of experience in Mobile and Web apps in agile environments, 👯 I am looking for global relocation opportunities in Europe ❤️✨ 
+- 🔭 I am a curious and self-motivated **React Native Developer** 📱 with over 3 years of experience in Mobile and Web apps in agile environments 👯✨ 
 
 - 🌱 I’m currently learning **Swift & SwiftUI**
 
@@ -28,7 +26,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/betanyeli-bravo/](https://www.linkedin.com/in/betanyeli-bravo/)
 
-- ⚡ Fun fact *Programmer👩🏻‍💻 by day and Dog Owner by da6 & night✨🧚‍♀️*
+- ⚡ Fun fact *Programmer👩🏻‍💻 by day and Dog Owner by day & night✨🧚‍♀️*
 
 - 😄 Pronouns: She/Her ...
 
