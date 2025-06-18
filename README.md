@@ -11,9 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betanyeli&label=Profile%20views&color=0e75b6&style=flat" alt="betanyeli" /> </p>
 
 
-- 🔭 I am a curious and self-motivated **React Native Developer** 📱 with over 3 years of experience in Mobile and Web apps in agile environments 👯✨ 
+- 🔭 I am a curious and self-motivated **React Native Developer** 📱 with over 5 years of experience in Mobile and Web apps in agile environments 👯✨ 
 
-- 🌱 I’m currently learning **Swift & SwiftUI**
+- 🌱 I’m currently learning **Swift & Rails**
 
 - 👩🏻‍💻 As a woman in tech👩🏻‍💻 I am passionate about promoting diversity and inclusion in the workplace✨.
 
@@ -26,9 +26,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/betanyeli-bravo/](https://www.linkedin.com/in/betanyeli-bravo/)
 
-- ⚡ Fun fact *Programmer👩🏻‍💻 by day and Dog Owner by day & night✨🧚‍♀️*
+- ⚡ Fun fact *Programmer👩🏻‍💻 by day and Witch at night✨🧚‍♀️*
 
-- 😄 Pronouns: She/Her ...
+- Pronouns: She/Her
 
 
 <h3 align="left">Connect with me📱:</h3>
